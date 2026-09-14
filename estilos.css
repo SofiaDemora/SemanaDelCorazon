@@ -78,3 +78,13 @@ body {
     background-color: white;
     border-left: 6px solid #F4320B;
 }
+
+
+table {
+    border: 2px solid black; /* Grosor, estilo y color */
+    border-collapse: collapse; /* Une los bordes de las celdas */
+  }
+  th, td {
+    border: 1px solid gray; /* Color para los bordes internos */
+    padding: 7px;
+  }
