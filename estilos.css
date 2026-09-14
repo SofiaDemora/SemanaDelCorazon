@@ -23,6 +23,11 @@ body {
     background-color: #f8f9fa;
 }
 
+#tabla-habitos {
+    padding: 20px 40px;
+    background-color: #f8f9fa;
+}
+
 /* --- CLASES (.) (Afectan a todos los elementos que tengan ese "uniforme") --- */
 .encabezado-oscuro {
     
