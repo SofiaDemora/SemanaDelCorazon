@@ -1,1 +1,75 @@
+/* --- ETIQUETAS GENERALES (Afectan a todas las etiquetas de ese tipo) --- */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e9ecef;
+    margin: 0;
+}
 
+/* --- IDs (#) (Afectan a un solo elemento único) --- */
+#contenedor-principal {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+#sobre-nosotros {
+    padding: 20px 40px;
+    border-bottom: 2px dashed #ccc; /* Una línea separadora */
+}
+
+#herramientas {
+    padding: 20px 40px;
+    background-color: #f8f9fa;
+}
+
+/* --- CLASES (.) (Afectan a todos los elementos que tengan ese "uniforme") --- */
+.encabezado-oscuro {
+    
+    background-color: #9C2007 ; 
+    color: #F7DFDA;
+    text-align: center;
+    padding: 30px 10px;
+}
+
+.subtitulo {
+    font-style: italic;
+    color: #bdc3c7;
+}
+
+.menu-navegacion {
+    
+    background-color: #C82909;
+    list-style: none; /* Quitamos los puntos de la lista */
+    padding: 15px;
+    margin: 0;
+    text-align: center;
+}
+
+.menu-navegacion li {
+    display: inline-block; /* Ponemos los elementos uno al lado del otro */
+    margin: 0 15px;
+}
+
+.menu-navegacion a {
+    color: #F7DFDA;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.texto-resaltado {
+    background-color: #0084FF; /* Fondo amarillo tipo resaltador */
+    padding: 2px 5px;
+    border-radius: 3px;
+    color: black;
+}
+
+/* El estilo de nuestras "cajas" (divs). Al cambiar esto, cambian las tres tarjetas a la vez */
+.tarjeta-herramienta {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    background-color: white;
+    border-left: 6px solid #F4320B;
+}
