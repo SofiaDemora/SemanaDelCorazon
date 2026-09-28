@@ -31,8 +31,38 @@
 
             <!-- **MODIFICAR EL CÓDIGO DE ACÁ EN ADELANTE** -->
             <section id="sobre-nosotros">
-                <h2>Título de ejemplo</h2>
+                <h2>Primeros Auzilios Cardíacos: RCP y Uso del DEA</h2>
                 <p>Esto es una plantilla.</p>
+
+
+                <ul>
+                  <li> Paso 1: Verificar que el lugar sea seguro</li>
+                  <li> Paso 2: Comprobar si la persona responde</li>
+                  <li> Paso 3: Llamar al 911 y pedir un DEA</li>
+                  <li> Paso 4: Comprobar si respira normalmente</li>
+                  <li> Paso 5: Si no respira, iniciar 30 compresiones en el centro del pecho.</li>
+                  <li> Dar 2 respiraciones</li>
+                  <li> Repetir 30:2 hasta que llegue ayuda o la persona reaccione</li>
+                  <li> Usar el DEA siguiendo sus indicaciones</li> 
+                </ul>
+                <strong>¿Qué es un DEA?</strong> 
+                <p>DEA significa Desfibrilador Externo Automático. Es un aparto que analiza el ritmo del corazón y, si es necesario, indica o administra una descarga eléctrica para ayudar a recuperar un ritmo normal.</p> 
+                
+
+              <h2>Guía del uso del DEA</h2>
+                <div class="tarjeta-herramienta">
+                    <h3>Los 4 pasos universales</h3>
+                    <p>Paso 1: Encenderlo</p>
+                    <p>Paso 2: Colocar los parches sobre el pecho de la persona</p> 
+                    <p>Paso 3: Dejar que analice el ritmo cardíaco, sin tocar a la persona</p> 
+                    <p>Paso 4: Seguir sus indicaciones y, si lo indica, aplicar la descarga.</p> 
+                  
+                    </p>
+                </div>
+              
+
+                  
+                
             </section>
 
             <section id="herramientas">
