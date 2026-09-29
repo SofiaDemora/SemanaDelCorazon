@@ -12,7 +12,7 @@
     <div id="contenedor-principal">
         
         <header class="encabezado-oscuro">
-            <h1>🫀Semana del corazón🫀</h1>
+            <h1>Semana del corazón🫀</h1>
             <p class="subtitulo">Sumate a la prevención: informate, actuá y viví mejor.</p>
         </header>
 
@@ -35,7 +35,7 @@
                 <p>Esto es una plantilla.</p>
 
 
-                <ul>
+                <ul class="list-unstyled">
                   <li> Paso 1: Verificar que el lugar sea seguro</li>
                   <li> Paso 2: Comprobar si la persona responde</li>
                   <li> Paso 3: Llamar al 911 y pedir un DEA</li>
@@ -68,8 +68,8 @@
             <section id="herramientas">
                 <h2>Información del grupo</h2>
                 <div class="tarjeta-herramienta">
-                    <h3>Equipo n°_</h3>
-                    <p>Lista con nombres y apellidos.</p>
+                    <h3>Equipo n°5</h3>
+                    <p>Lucas Espíndola y Ámbar González.</p>
                 </div>
                 
             </section>
